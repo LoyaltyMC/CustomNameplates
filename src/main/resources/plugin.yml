@@ -1,0 +1,5 @@
+name: CustomNameplates
+version: ${project.version}
+main: com.rngservers.customnameplates.CustomNameplates
+api-version: 1.13
+softdepend: [PlaceholderAPI]

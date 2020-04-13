@@ -1,0 +1,5 @@
+configVersion: 1
+
+settings:
+  prefix: "%luckperms_prefix% &r"
+  suffix: ""
