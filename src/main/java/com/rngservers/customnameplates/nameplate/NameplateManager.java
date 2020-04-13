@@ -51,8 +51,8 @@ public class NameplateManager {
                 .replace("&", "§");
         team.setPrefix(prefix);
         team.setSuffix(suffix);
-        String color = prefix.replace(" ", "").substring(prefix.length() - 2);
-        team.setColor(ChatColor.getByChar(color));
+      //  String color = prefix.replace(" ", "").substring(prefix.length() - 2);
+      //  team.setColor(ChatColor.getByChar(color));
 
         team.addEntry(player.getName());
         player.setScoreboard(scoreboard);
