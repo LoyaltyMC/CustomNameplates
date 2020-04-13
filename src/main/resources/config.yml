@@ -1,5 +1,5 @@
 configVersion: 1
 
 settings:
-  prefix: "%luckperms_prefix% &r"
-  suffix: ""
+  prefix: "%uperms_prefix% &r"
+  suffix: "%floodgateplaceholder_status% &r"
