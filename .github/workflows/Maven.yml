@@ -29,5 +29,3 @@ jobs:
         with:
           name: CustomNameplates
           path: target/CustomNameplates-1.0.jar
-      - name: Archive artifact
-        uses: actions/upload-artifact@v1
